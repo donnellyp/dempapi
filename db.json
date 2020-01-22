@@ -1,7 +1,7 @@
 {
-  
+  posts:[
     { "id": 1, "CallSid": "3453453453", "PolicyNumber": "xb1234" },
     { "id": 2, "CallSid": "123454", "PolicyNumber": "xb1235" },
     { "id": 2, "CallSid": "63455345345345", "PolicyNumber": "xb12344" }
-  
+  ]
 }
