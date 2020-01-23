@@ -26,10 +26,10 @@
       "PolicyNumber": "cb1234"
     }
   ],
-  "callrecordings2": [
+  "recordings": [
     { 
       "id": 1,
-      "CallSid": "3453453453",
+      "CallSid": 1234,
       "PolicyNumber": "xb1234"
     }
   ],
@@ -45,18 +45,6 @@
     {
       "id": 3,
       "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
     }
   ],
   "profile": {
