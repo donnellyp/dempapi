@@ -26,6 +26,13 @@
       "PolicyNumber": "cb1234"
     }
   ],
+  "callrecordings2": [
+    { 
+      "id": 1,
+      "CallSid": "3453453453",
+      "PolicyNumber": "xb1234"
+    }
+  ],
     "posts": [
     {
       "id": 1,
