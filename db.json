@@ -44,7 +44,7 @@
 		}
 	],
 	"profile": [{
-			"link": 1,
+			"id": 1,
 			"name": "test1",
 			"summary": "Summary Test 1",
 			"year": "2001",
@@ -53,7 +53,7 @@
 			"description": "Desc 1"
 		},
 		{
-			"link": 2,
+			"": 2,
 			"name": "test2",
 			"summary": "Summary Test 2",
 			"year": "2001",
